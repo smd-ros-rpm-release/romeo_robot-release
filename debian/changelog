@@ -1,0 +1,9 @@
+ros-indigo-nao-camera (0.0.1-1trusty) trusty; urgency=high
+
+  * remove useless messages in romeo_dcm
+  * added nao_camera node modified to handle ROMEO's Asus Xtion
+  * Contributors: margueda
+
+ -- Ha Dang <hris2003@gmail.com>  Mon, 08 Sep 2014 22:00:00 -0000
+
+
