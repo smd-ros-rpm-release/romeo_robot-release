@@ -1,0 +1,24 @@
+ros-indigo-romeo-description (0.0.3-0trusty) trusty; urgency=high
+
+  * fixed roscpp dependencies
+  * Contributors: Ha Dang
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Tue, 09 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-description (0.0.2-0trusty) trusty; urgency=high
+
+  * test ssh access
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Tue, 09 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-description (0.0.1-0trusty) trusty; urgency=high
+
+  * added hands to xacro files
+  * fix pepper frames generation
+  * updated generated urdf
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Mon, 08 Sep 2014 22:00:00 -0000
+
+
