@@ -2,6 +2,11 @@
 Changelog for package romeo_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2014-09-18)
+------------------
+* updated readme
+* Contributors: margueda
+
 0.0.4 (2014-09-11)
 ------------------
 * fix dependencies for romeo_description
