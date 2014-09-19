@@ -2,6 +2,11 @@
 Changelog for package romeo_dcm_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2014-09-19)
+------------------
+* fix dependencies for romeo_dcm_msgs
+* Contributors: Ha Dang
+
 0.0.5 (2014-09-18)
 ------------------
 * Merge branch 'master' of github.com:ros-aldebaran/romeo_robot
