@@ -1,0 +1,12 @@
+Source: ros-indigo-romeo-description
+Section: misc
+Priority: extra
+Maintainer: mikael arguedas <mikael.arguedas@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-message-filters, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-romeo-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-message-filters, ros-indigo-robot-state-publisher, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf, ros-indigo-urdf
+Description: The romeo_description package
