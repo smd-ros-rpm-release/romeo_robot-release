@@ -2,6 +2,9 @@
 Changelog for package romeo_dcm_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.7 (2014-09-22)
+------------------
+
 0.0.6 (2014-09-19)
 ------------------
 * fix dependencies for romeo_dcm_msgs
