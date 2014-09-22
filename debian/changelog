@@ -1,0 +1,53 @@
+ros-indigo-romeo-dcm-driver (0.0.8-0saucy) saucy; urgency=high
+
+
+
+ -- Ha Dang <hris2003@gmail.com>  Sun, 21 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-dcm-driver (0.0.7-0saucy) saucy; urgency=high
+
+
+
+ -- Ha Dang <hris2003@gmail.com>  Sun, 21 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-dcm-driver (0.0.6-0saucy) saucy; urgency=high
+
+
+
+ -- Ha Dang <hris2003@gmail.com>  Thu, 18 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-dcm-driver (0.0.5-0saucy) saucy; urgency=high
+
+  * cleaning
+  * Contributors: margueda
+
+ -- Ha Dang <hris2003@gmail.com>  Wed, 17 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-dcm-driver (0.0.4-0saucy) saucy; urgency=high
+
+
+
+ -- Ha Dang <hris2003@gmail.com>  Wed, 10 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-dcm-driver (0.0.3-0saucy) saucy; urgency=high
+
+
+
+ -- Ha Dang <hris2003@gmail.com>  Tue, 09 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-dcm-driver (0.0.2-0saucy) saucy; urgency=high
+
+  * fix install target error
+  * Contributors: Ha Dang
+
+ -- Ha Dang <hris2003@gmail.com>  Tue, 09 Sep 2014 22:00:00 -0000
+
+ros-indigo-romeo-dcm-driver (0.0.1-0saucy) saucy; urgency=high
+
+  * remove useless messages in romeo_dcm
+  * added control via DCM proxy
+  * Contributors: margueda
+
+ -- Ha Dang <hris2003@gmail.com>  Mon, 08 Sep 2014 22:00:00 -0000
+
+
