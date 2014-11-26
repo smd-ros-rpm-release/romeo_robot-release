@@ -1,0 +1,14 @@
+Source: ros-hydro-romeo-dcm-bringup
+Section: misc
+Priority: extra
+Maintainer: Ha Dang <hris2003@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+
+
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-romeo-dcm-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-romeo-dcm-control, ros-hydro-romeo-dcm-driver, ros-hydro-romeo-description, ros-hydro-rospy
+Description: Bring-up the romeo_dcm driver to connect to Aldebaran's Nao robot (v4).
