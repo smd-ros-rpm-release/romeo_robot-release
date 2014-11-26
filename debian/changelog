@@ -1,0 +1,95 @@
+ros-hydro-romeo-sensors (0.0.11-0raring) raring; urgency=high
+
+
+
+ -- Ha Dang <hris2003@gmail.com>  Tue, 25 Nov 2014 23:00:00 -0000
+
+ros-hydro-romeo-sensors (0.0.10-0raring) raring; urgency=high
+
+  * comply to the new naoqi organization
+  * Contributors: Vincent Rabaud
+
+ -- Ha Dang <hris2003@gmail.com>  Wed, 12 Nov 2014 23:00:00 -0000
+
+ros-hydro-romeo-sensors (0.0.9-0raring) raring; urgency=high
+
+
+
+ -- Ha Dang <hris2003@gmail.com>  Wed, 24 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-sensors (0.0.8-0raring) raring; urgency=high
+
+  * Fix CMakeLists
+  * Contributors: Ha Dang
+
+ -- Ha Dang <hris2003@gmail.com>  Sun, 21 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-sensors (0.0.7-0raring) raring; urgency=high
+
+  * Fix dependencies in CMakeLists
+  * Contributors: Ha Dang
+
+ -- Ha Dang <hris2003@gmail.com>  Sun, 21 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-sensors (0.0.6-0raring) raring; urgency=high
+
+
+
+ -- Ha Dang <hris2003@gmail.com>  Thu, 18 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-sensors (0.0.5-0raring) raring; urgency=high
+
+  * update changelog
+  * remove camera_depth.launch
+  * Update README.md
+  * Update and rename README_Romeo to README.md
+  * cleaning
+  * remove nao_camera from romeo_sensors
+  * updated readme
+  * new romeo_sensors with only launch files
+  * Contributors: Ha Dang, margueda
+  * remove camera_depth.launch
+  * Update README.md
+  * Update and rename README_Romeo to README.md
+  * cleaning
+  * remove nao_camera from romeo_sensors
+  * updated readme
+  * new romeo_sensors with only launch files
+  * Contributors: Ha Dang, margueda
+
+ -- Ha Dang <hris2003@gmail.com>  Wed, 17 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-sensors (0.0.4-0raring) raring; urgency=high
+
+  * changelog
+  * fix dependencies for romeo_description
+  * Contributors: Ha Dang
+
+ -- Ha Dang <hris2003@gmail.com>  Wed, 10 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-sensors (0.0.3-0raring) raring; urgency=high
+
+  * update changelog for build
+  * Contributors: Ha Dang
+
+ -- Ha Dang <hris2003@gmail.com>  Wed, 10 Sep 2014 16:26:00 -0000
+
+ros-hydro-romeo-sensors (0.0.2-0raring) raring; urgency=high
+
+  * updated changelog
+  * fix install target error
+  * Contributors: Ha Dang
+
+ -- Ha Dang <hris2003@gmail.com>  Wed, 10 Sep 2014 14:03:00 -0000
+
+ros-hydro-romeo-sensors (0.0.1-0raring) raring; urgency=high
+
+  * update version
+  * add changelog for release
+  * remove useless messages in romeo_dcm
+  * added nao_camera node modified to handle ROMEO's Asus Xtion
+  * Contributors: margueda
+
+ -- Ha Dang <hris2003@gmail.com>  Mon, 08 Sep 2014 22:00:00 -0000
+
+
