@@ -1,0 +1,14 @@
+Source: ros-hydro-romeo-robot
+Section: misc
+Priority: extra
+Maintainer: Mikael Arguedas <mikael.arguedas@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+
+
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-romeo-robot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-romeo-description, ros-hydro-romeo-sensors
+Description: The romeo_robot metapackage
