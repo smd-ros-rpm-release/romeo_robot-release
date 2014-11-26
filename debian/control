@@ -1,0 +1,14 @@
+Source: ros-hydro-romeo-description
+Section: misc
+Priority: extra
+Maintainer: mikael arguedas <mikael.arguedas@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-message-filters, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-tf, ros-hydro-urdf, ros-hydro-xacro
+
+
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-romeo-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-message-filters, ros-hydro-robot-state-publisher, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-tf, ros-hydro-urdf, ros-hydro-xacro
+Description: The romeo_description package
