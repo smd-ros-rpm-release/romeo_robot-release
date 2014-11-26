@@ -1,0 +1,14 @@
+Source: ros-hydro-romeo-dcm-msgs
+Section: misc
+Priority: extra
+Maintainer: Ha Dang <hris2003@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-message-generation, ros-hydro-std-msgs
+
+
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-romeo-dcm-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-message-runtime, ros-hydro-std-msgs
+Description: Message, service and action declarations for Aldebaran's ROMEO
