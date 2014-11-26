@@ -1,0 +1,14 @@
+Source: ros-indigo-romeo-dcm-control
+Section: misc
+Priority: extra
+Maintainer: Ha Dang <hris2003@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+
+
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-romeo-dcm-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-robot-state-publisher, ros-indigo-ros-control, ros-indigo-ros-controllers
+Description: Control for Aldebaran's ROMEO robot
