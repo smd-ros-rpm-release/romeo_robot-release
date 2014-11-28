@@ -1,0 +1,90 @@
+ros-hydro-romeo-description (0.0.12-1precise) precise; urgency=high
+
+  * remove _actuator suffix from Hand joints
+  * Contributors: Mikael ARGUEDAS
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Tue, 25 Nov 2014 23:00:00 -0000
+
+ros-hydro-romeo-description (0.0.11-1precise) precise; urgency=high
+
+  * added romeo_robot metapackage
+  * added romeo cap with xtion to meshes and urdf
+  * update name for Hand actuator
+  * revert error during previous commit
+  * update xacro files and meshes
+  * Contributors: Mikael ARGUEDAS, margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Tue, 25 Nov 2014 23:00:00 -0000
+
+ros-hydro-romeo-description (0.0.10-1precise) precise; urgency=high
+
+  * fix committer's name
+  * Contributors: Vincent Rabaud
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 12 Nov 2014 23:00:00 -0000
+
+ros-hydro-romeo-description (0.0.9-1precise) precise; urgency=high
+
+  * fix dependencies
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 24 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-description (0.0.8-1precise) precise; urgency=high
+
+
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Sun, 21 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-description (0.0.7-1precise) precise; urgency=high
+
+
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Sun, 21 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-description (0.0.6-1precise) precise; urgency=high
+
+
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Thu, 18 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-description (0.0.5-1precise) precise; urgency=high
+
+  * updated readme
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 17 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-description (0.0.4-1precise) precise; urgency=high
+
+  * fix dependencies for romeo_description
+  * Contributors: Ha Dang
+  * fix dependencies for romeo_description
+  * Contributors: Ha Dang
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Wed, 10 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-description (0.0.3-1precise) precise; urgency=high
+
+  * fixed roscpp dependencies
+  * Contributors: Ha Dang
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Tue, 09 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-description (0.0.2-1precise) precise; urgency=high
+
+  * test ssh access
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Tue, 09 Sep 2014 22:00:00 -0000
+
+ros-hydro-romeo-description (0.0.1-1precise) precise; urgency=high
+
+  * added hands to xacro files
+  * fix pepper frames generation
+  * updated generated urdf
+  * Contributors: margueda
+
+ -- mikael arguedas <mikael.arguedas@gmail.com>  Mon, 08 Sep 2014 22:00:00 -0000
+
+
