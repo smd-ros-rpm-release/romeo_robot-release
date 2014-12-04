@@ -2,6 +2,9 @@
 Changelog for package romeo_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.13 (2014-12-04)
+-------------------
+
 0.0.12 (2014-11-26)
 -------------------
 * remove _actuator suffix from Hand joints
