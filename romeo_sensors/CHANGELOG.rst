@@ -2,6 +2,11 @@
 Changelog for package romeo_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.13 (2014-12-04)
+-------------------
+* Added cv_bridge dependency
+* Contributors: Arguedas Mikael
+
 0.0.12 (2014-11-26)
 -------------------
 
